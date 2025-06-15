@@ -1,10 +1,10 @@
-# 🧠 LexSearch – AI-Powered Legal Semantic Search
+#  LexSearch – AI-Powered Legal Semantic Search
 
 LexSearch is a robust full-stack application designed to enable **natural language semantic search over legal case documents (PDFs)**. By combining modern tools such as **Pinecone**, **LangChain**, and **Voyage AI's domain-specific embeddings**, LexSearch builds a custom legal knowledge base powered by vector similarity search.
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 Legal professionals often face challenges searching through vast repositories of case law. LexSearch tackles this by enabling intuitive, semantic querying of legal texts, going beyond keyword matching to understand context and meaning. This project serves as both a practical tool and a learning resource demonstrating how to:
 
@@ -15,7 +15,7 @@ Legal professionals often face challenges searching through vast repositories of
 
 ---
 
-## 📚 Features
+##  Features
 
 - **Automatic knowledge base creation** by parsing and embedding PDF documents  
 - **Semantic search** optimized for legal language and case retrieval  
@@ -25,7 +25,7 @@ Legal professionals often face challenges searching through vast repositories of
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 | Technology      | Role                                   |
 |-----------------|---------------------------------------|
@@ -38,7 +38,7 @@ Legal professionals often face challenges searching through vast repositories of
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. **PDF ingestion:** Legal PDFs are parsed and broken into semantically meaningful chunks using LangChain.  
 2. **Embedding generation:** Each chunk is converted to a dense vector using Voyage AI’s specialized embeddings for legal text.  
@@ -48,7 +48,7 @@ Legal professionals often face challenges searching through vast repositories of
 
 ---
 
-## 🔧 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -86,7 +86,7 @@ Legal professionals often face challenges searching through vast repositories of
 
 7. Open http://localhost:3000 in your browser and start searching!
 
-## 📂 Project Structure
+##  Project Structure
 
 - `/pages` — Next.js pages and API routes  
 - `/components` — React UI components  
@@ -97,7 +97,7 @@ Legal professionals often face challenges searching through vast repositories of
 
 ---
 
-## 📖 References
+##  References
 
 - [Pinecone Documentation](https://docs.pinecone.io/)  
 - [LangChain Documentation](https://langchain.com/docs/)  
@@ -107,7 +107,7 @@ Legal professionals often face challenges searching through vast repositories of
 
 ---
 
-## 🎯 Future Enhancements
+##  Future Enhancements
 
 - Support for additional document formats (Word, HTML)  
 - Enhanced filtering by legal topic or jurisdiction  
@@ -116,4 +116,4 @@ Legal professionals often face challenges searching through vast repositories of
 
 ---
 
-### Happy coding and happy searching! ⚖️🚀
+### Happy coding and happy searching! 
